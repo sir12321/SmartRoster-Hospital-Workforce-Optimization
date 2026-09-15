@@ -2,6 +2,16 @@
 
 *Manya Jain*
 
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
+[![Algorithms](https://img.shields.io/badge/Algorithms-20%20Solvers-orange.svg)](#headline-results)
+[![Benchmark](https://img.shields.io/badge/Benchmark-1%2C036%20Instances-brightgreen.svg)](#benchmarking)
+[![Problem](https://img.shields.io/badge/Problem-Nurse%20Scheduling%20(NSP)-red.svg)](https://en.wikipedia.org/wiki/Nurse_scheduling_problem)
+[![Field](https://img.shields.io/badge/Field-Operations%20Research-purple.svg)](https://en.wikipedia.org/wiki/Operations_research)
+[![Optimization](https://img.shields.io/badge/Optimization-CSP%20%26%20Metaheuristics-informational.svg)]()
+
+> **Topics & Keywords:** `nurse-scheduling-problem` • `hospital-workforce-optimization` • `shift-rostering` • `constraint-satisfaction` • `combinatorial-optimization` • `operations-research` • `simulated-annealing` • `branch-and-bound` • `constraint-propagation` • `network-flow` • `z3-solver` • `smt` • `column-generation` • `dynamic-programming` • `heuristics` • `benchmark`
+
+
 **20 algorithms for hospital shift rostering, benchmarked head-to-head on 1,036
 instances.** A constraint-satisfaction and combinatorial-optimisation study:
 which techniques actually earn their keep on a hard scheduling problem, and
